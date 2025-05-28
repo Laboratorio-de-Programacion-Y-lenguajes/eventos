@@ -19,4 +19,4 @@ python manage.py migrate
 python manage.py loaddata events.json
 
 ## Correr app
-python manage.py runserverhola
+python manage.py runserverholachau
